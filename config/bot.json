@@ -1,0 +1,10 @@
+{
+      "prefix":"$",
+      "commands": {
+            "categories": [
+                  "General"
+            ]
+      },
+      "globalCmdTimeoutTime": 1000,
+      "use_globalCmdTimeout": false
+}

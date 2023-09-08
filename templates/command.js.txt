@@ -1,0 +1,25 @@
+// @ts-nocheck
+// @ts-ignore
+const { EmbedBuilder } = require("discord.js");
+
+module.exports = {
+  config: {
+    name: "",
+    category: "",
+    description: "",
+    usage: "",
+    aliases: [``],
+  },
+  run: async (
+    // @ts-ignore
+    /** @type {{ commands: any[]; }} */ bot,
+    /** @type {{ channel: { send: (arg0: { embeds: EmbedBuilder[]; }) => void; }; }} */ msg,
+    // @ts-ignore
+    /** @type {any} */ args,
+    // @ts-ignore
+    /** @type {any} */ config
+  ) => {
+
+  },
+};
+
