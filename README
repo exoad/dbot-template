@@ -1,0 +1,2 @@
+Required: /config/private.json
+  Required Variables: "bot_token"
